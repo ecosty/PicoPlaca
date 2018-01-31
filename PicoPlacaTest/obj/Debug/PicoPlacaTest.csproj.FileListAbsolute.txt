@@ -1,0 +1,14 @@
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlacaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlacaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlacaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlacaTest\bin\Debug\PicoPlacaTest.dll
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlacaTest\bin\Debug\PicoPlacaTest.pdb
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlacaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlacaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlacaTest\bin\Debug\PicoPlaca.dll
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlacaTest\bin\Debug\PicoPlaca.pdb
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlacaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlacaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlacaTest\obj\Debug\PicoPlacaTest.csprojResolveAssemblyReference.cache
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlacaTest\obj\Debug\PicoPlacaTest.dll
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlacaTest\obj\Debug\PicoPlacaTest.pdb

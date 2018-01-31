@@ -1,0 +1,5 @@
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.csprojResolveAssemblyReference.cache
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.dll
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.pdb
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.dll
+c:\users\elias\documents\visual studio 2017\Projects\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.pdb
